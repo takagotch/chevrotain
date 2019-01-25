@@ -67,6 +67,7 @@ let lexingResult = SelectLexer.tokenize(inputText)
 ```
 
 ```
+/* https://sap.github.io/chevrotain/docs/tutorial/step2_parsing.html#usage */
 ```
 
 
